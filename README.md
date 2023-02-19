@@ -15,4 +15,5 @@
 *    notes.py --edit|EDIT|e "title"                    - редактирует заметку с указанным заголовком
 *    notes.py --vcleariew|VIEW"|v "title"              - просматривает заметку с указанным заголовком
 *    notes.py --rename|RENAME|r "old_title" "new_title"- переименовывает заметку
+*
 
